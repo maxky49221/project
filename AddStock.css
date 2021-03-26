@@ -21,8 +21,6 @@ label{
     border-radius: 8px;
 }
 
-
-
 input[type=text] {
     width: 40%;
     padding: 12px 20px;
@@ -50,4 +48,17 @@ input[type=text]:focus {
 
 .addsub {
     width: 10%;
+}
+
+
+.bottom-footer{
+    background-color: rgba(10, 3, 3, 0.425);
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 12%;
+    color: white;
+    text-align: center;
+    
 }
